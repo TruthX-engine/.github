@@ -29,9 +29,9 @@ Incident response teams have telemetry, indicators and logs, but often lack a co
 ### Institutional and public-interest contexts
 The issue is not merely access to information. It is the inability to stabilize a shared, auditable reading of what happened.
 
-## What TruthX changes
+## What OpenProof changes
 
-TruthX builds deterministic structuring systems that transform heterogeneous inputs into traceable, reviewable and defensible outputs.
+OpenProof is powered by a deterministic structuring engine that transforms heterogeneous inputs into traceable, reviewable and defensible outputs.
 
 Core capabilities include:
 
@@ -44,7 +44,7 @@ Core capabilities include:
 
 ## Architecture
 
-TruthX is built around a layered model:
+OpenProof is built around a layered model:
 
 - OpenProof = infrastructure and probative standard layer
 - TruthX Engine = deterministic structuring engine
@@ -54,13 +54,15 @@ TruthX is built around a layered model:
 
 Modern organizations are surrounded by information, yet remain structurally weak when they need to defend a decision, an investigation or a chain of reasoning.
 
-TruthX is built for that gap.
+OpenProof is built for that gap.
 
 **Not more content.  
 More defensible structure.**
 
 ## Current status
 
-TruthX is actively building its engine, modular architecture and deterministic workflows.
+OpenProof is currently being formalized as a probative infrastructure powered by the TruthX Engine.
 
 Long-term objective: make fragmented evidence usable, traceable and structurally reliable where it matters most.
+
+TruthX Engine is the proprietary deterministic engine powering OpenProof.
