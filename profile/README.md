@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="TruthX / OpenProof banner" width="100%">
+  <img src="https://uploads.strikinglycdn.com/files/707b05f8-fec6-4c7c-b3e6-37111cab7fe9/image.jpg?t=1773204683&id=4379177" alt="TruthX / OpenProof banner" width="100%">
 </p>
 
 # TruthX
