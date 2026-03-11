@@ -1,32 +1,40 @@
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="TruthX / OpenProof banner" width="100%">
+</p>
+
 # TruthX
 
-Building probative infrastructure for high-stakes decision environments.
+Deterministic probative infrastructure for high-stakes decision environments.
 
-TruthX exists for one reason: critical sectors do not suffer from a lack of data. They suffer from a lack of defensible structure.
+## Why TruthX exists
 
-Across governance, legal, compliance, cyber and institutional contexts, the same pattern repeats itself: signals are fragmented, narratives are unstable, evidence is scattered, and decisions become difficult to justify under scrutiny.
+Critical sectors do not primarily suffer from a lack of data.  
+They suffer from a lack of defensible structure.
 
-TruthX is designed to address that structural problem.
+Signals are fragmented.  
+Narratives are unstable.  
+Evidence is scattered.  
+Decisions become difficult to justify under scrutiny.
 
-## The problem
+TruthX is built to solve that structural weakness.
+
+## Where the problem appears
 
 ### Governance
-Executive and board decisions are often made on incomplete, unstable or weakly traceable information. When scrutiny comes later, the reasoning chain is rarely preserved in a defensible form.
+Executive and board decisions are often made on incomplete, unstable or weakly traceable information.
 
 ### Legal and compliance
-Investigations frequently collapse into document chaos: testimonies, emails, timelines and allegations coexist without a stable evidential structure. Facts, interpretations and narrative bias become entangled.
+Investigations collapse into document chaos: testimonies, emails, timelines and allegations coexist without a stable evidential structure.
 
 ### Cyber
-Incident response teams have telemetry, indicators and logs, but often lack a coherent layer that turns technical fragments into a reviewable and defensible decision narrative.
+Incident response teams have telemetry, indicators and logs, but often lack a coherent layer that turns technical fragments into a defensible decision narrative.
 
 ### Institutional and public-interest contexts
-In high-friction environments, the main problem is not access to information. It is the inability to stabilize a shared, auditable reading of what happened.
+The issue is not merely access to information. It is the inability to stabilize a shared, auditable reading of what happened.
 
 ## What TruthX changes
 
 TruthX builds deterministic structuring systems that transform heterogeneous inputs into traceable, reviewable and defensible outputs.
-
-Its purpose is not simply to summarize information, but to organize it in a way that preserves coherence, exposes narrative signals and supports decision defensibility.
 
 Core capabilities include:
 
@@ -45,19 +53,17 @@ TruthX is built around a layered model:
 - TruthX Engine = deterministic structuring engine
 - Sector pilots = applied products built on top of the engine
 
-This architecture is designed to make decision systems more explainable, more auditable and ultimately more defensible.
-
 ## Why this matters
 
-Modern organizations are surrounded by information, but remain structurally weak when they need to defend a decision, an investigation or a chain of reasoning.
+Modern organizations are surrounded by information, yet remain structurally weak when they need to defend a decision, an investigation or a chain of reasoning.
 
 TruthX is built for that gap.
 
-Not more content.  
-More defensible structure.
+**Not more content.  
+More defensible structure.**
 
 ## Current status
 
-TruthX is currently building its engine, module architecture and deterministic workflows.
+TruthX is actively building its engine, modular architecture and deterministic workflows.
 
-The long-term goal is clear: to make fragmented evidence usable, traceable and structurally reliable in the environments where it matters most.
+Long-term objective: make fragmented evidence usable, traceable and structurally reliable where it matters most.
