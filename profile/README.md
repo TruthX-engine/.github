@@ -1,24 +1,19 @@
 <p align="center">
-  <img src="https://uploads.strikinglycdn.com/files/707b05f8-fec6-4c7c-b3e6-37111cab7fe9/image.jpg?t=1773204683&id=4379177" alt="TruthX / OpenProof banner" width="100%">
+  <img src="https://uploads.strikinglycdn.com/files/707b05f8-fec6-4c7c-b3e6-37111cab7fe9/image.jpg?t=1773204683&id=4379177" alt="OpenProof banner" width="100%">
 </p>
+
 <p align="center">
   <strong>OpenProof Infrastructure powered by the TruthX Engine</strong>
 </p>
-# TruthX
 
-Deterministic probative infrastructure for high-stakes decision environments.
+# OpenProof
 
-## Why TruthX exists
+Probative infrastructure for high-stakes decision environments.
+
+## Why OpenProof exists
 
 Critical sectors do not primarily suffer from a lack of data.  
 They suffer from a lack of defensible structure.
-
-Signals are fragmented.  
-Narratives are unstable.  
-Evidence is scattered.  
-Decisions become difficult to justify under scrutiny.
-
-TruthX is built to solve that structural weakness.
 
 ## Where the problem appears
 
