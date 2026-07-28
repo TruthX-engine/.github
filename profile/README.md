@@ -2,67 +2,73 @@
   <img src="https://uploads.strikinglycdn.com/files/707b05f8-fec6-4c7c-b3e6-37111cab7fe9/image.jpg?t=1773204683&id=4379177" alt="OpenProof banner" width="100%">
 </p>
 
-<p align="center">
-  <strong>OpenProof Infrastructure powered by the TruthX Engine</strong>
-</p>
+# TruthX · OpenProof
 
-# OpenProof
+**Turning complex evidence into structured, traceable and verifiable records for high-stakes decisions.**
 
-Probative infrastructure for high-stakes decision environments.
+Critical decisions are often made from fragmented documents, conflicting accounts, unstable timelines and transformations no one can reconstruct later. TruthX and OpenProof are being built to make that reasoning reviewable and defensible.
 
-## Why OpenProof exists
+## The architecture in one view
 
-Critical sectors do not primarily suffer from a lack of data.  
-They suffer from a lack of defensible structure.
+| Component | Role |
+|---|---|
+| **TruthX Engine** | The proprietary deterministic structuring engine. It organizes heterogeneous evidence through a controlled, traceable pipeline. |
+| **OpenProof** | The probative infrastructure and public verification layer powered by TruthX Engine. |
+| **RPO** | The Registered Probative Object produced by the system: a structured, traceable and verifiable decision record. |
 
-## Where the problem appears
+> **OpenProof is the probative infrastructure. TruthX Engine is the deterministic structuring engine powering it. RPO is the Registered Probative Object it produces.**
 
-### Governance
-Executive and board decisions are often made on incomplete, unstable or weakly traceable information.
+## From evidence to a defensible record
 
-### Legal and compliance
-Investigations collapse into document chaos: testimonies, emails, timelines and allegations coexist without a stable evidential structure.
+```text
+Fragmented evidence
+        ↓
+TruthX Engine
+controlled structuring · traceable transformations · explicit reservations
+        ↓
+OpenProof
+probative infrastructure · specification · independent validation
+        ↓
+RPO
+registered record · human-readable output · machine-verifiable integrity
+```
 
-### Cyber
-Incident response teams have telemetry, indicators and logs, but often lack a coherent layer that turns technical fragments into a defensible decision narrative.
+## Who it is for
 
-### Institutional and public-interest contexts
-The issue is not merely access to information. It is the inability to stabilize a shared, auditable reading of what happened.
+OpenProof is designed for environments where decisions may later be challenged, audited or reconstructed:
 
-## What OpenProof changes
+- legal, investigation and compliance teams;
+- boards, executives and governance functions;
+- HR and organizational decision-makers;
+- risk, crisis and institutional-response teams;
+- researchers and technical partners working on evidence integrity.
 
-OpenProof is powered by a deterministic structuring engine that transforms heterogeneous inputs into traceable, reviewable and defensible outputs.
+## What the system does — and does not do
 
-Core capabilities include:
+It is designed to:
 
-- structured intake and normalization
-- coherence analysis
-- narrative signal detection
-- evidence scoring
-- uncertainty logging
-- modular probative object generation
+- preserve the relationship between claims, sources and transformations;
+- make uncertainty and reservations explicit;
+- produce reviewable outputs rather than opaque conclusions;
+- allow independent structural and integrity checks;
+- prevent silent rewriting of the decision record.
 
-## Architecture
+It does **not** adjudicate truth, automate judgment or replace legal and professional expertise.
 
-OpenProof is built around a layered model:
+## Public building blocks
 
-- OpenProof = infrastructure and probative standard layer
-- TruthX Engine = deterministic structuring engine
-- Sector pilots = applied products built on top of the engine
-
-## Why this matters
-
-Modern organizations are surrounded by information, yet remain structurally weak when they need to defend a decision, an investigation or a chain of reasoning.
-
-OpenProof is built for that gap.
-
-**Not more content.  
-More defensible structure.**
+- [RPO Specification v0.1](https://github.com/openproof-net/rpo-spec-v0.1) — defines the public output standard.
+- [RPO Reference Implementation](https://github.com/Gersenderdp/rpo-reference) — demonstrates deterministic bundle generation.
+- [RPO Examples](https://github.com/Gersenderdp/rpo-examples) — shows synthetic use cases.
+- [OpenProof Validator](https://github.com/Gersenderdp/openproof-validator) — checks structural compliance and integrity.
+- [Interactive simulator](https://rpo.openproof.net/simulator.html) — demonstrates the public specification.
 
 ## Current status
 
-OpenProof is currently being formalized as a probative infrastructure powered by the TruthX Engine.
+The public specification, reference artifacts, examples and validator are available for inspection. TruthX Engine remains proprietary and is being developed and evaluated through controlled, measurable cycles.
 
-Long-term objective: make fragmented evidence usable, traceable and structurally reliable where it matters most.
+## Founder
 
-TruthX Engine is the proprietary deterministic engine powering OpenProof.
+Founded by [Gersende de Parcey](https://github.com/Gersenderdp).
+
+[TruthX](https://www.truthx.co/) · [OpenProof](https://www.openproof.net/) · [LinkedIn](https://www.linkedin.com/in/gryard/)
