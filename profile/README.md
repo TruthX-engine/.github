@@ -61,7 +61,7 @@ It does **not** adjudicate truth, automate judgment or replace legal and profess
 - [RPO Reference Implementation](https://github.com/Gersenderdp/rpo-reference) — demonstrates deterministic bundle generation.
 - [RPO Examples](https://github.com/Gersenderdp/rpo-examples) — shows synthetic use cases.
 - [OpenProof Validator](https://github.com/Gersenderdp/openproof-validator) — checks structural compliance and integrity.
-- [Interactive simulator](https://rpo.openproof.net/simulator.html) — demonstrates the public specification.
+- [Interactive simulator](https://openproof.net/docs/simulator.html) — demonstrates the public specification.
 
 ## Current status
 
@@ -71,4 +71,4 @@ The public specification, reference artifacts, examples and validator are availa
 
 Founded by [Gersende de Parcey](https://github.com/Gersenderdp).
 
-[TruthX](https://www.truthx.co/) · [OpenProof](https://www.openproof.net/) · [LinkedIn](https://www.linkedin.com/in/gryard/)
+[Technology](https://openproof.net/technology) · [OpenProof](https://openproof.net/) · [Contact](https://openproof.net/#contact) · [LinkedIn](https://www.linkedin.com/in/gryard/)
